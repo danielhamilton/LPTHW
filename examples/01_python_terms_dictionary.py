@@ -5,7 +5,5 @@ python_terms = {
     "string": "definition here",
     "integer": "definition here",
     "float": "definition here",
-    "variable":
-
-
+    "variable": "variable here"
     }
